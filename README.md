@@ -14,7 +14,7 @@ The magnetized coil running along the track, called a guideway, repels the large
 <img src="https://images.vexels.com/media/users/3/77805/preview/b89db9132e91c49f2e3dd48c368b6af0-maglev-train-infographic.jpg" />
 Maglev trains float on a cushion of air, eliminating friction. This lack of friction and the trains' aerodynamic designs allow these trains to reach unprecedented ground transportation speeds of more than 310 mph (500 kph)
 
-<img src="https://www.energy.gov/sites/default/files/diagram-final.jpg" />
+<img src="https://www.energy.gov/sites/default/files/diagram-final.jpg" /><br>
 **Advantages of Maglev:-**<br>
 High Level Of Safety.<br>
 No Derailment.<br>
